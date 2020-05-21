@@ -1,0 +1,16 @@
+{
+  "name": "dectect-emotion",
+  "version": "0.1.0",
+  "description": "Detect emotion analyze face picture by using Azure Computer Vision.",
+  "main": "app.js",
+  "author": "Nhon Nguyen",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "electron": "^9.0.0"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0"
+  }
+}
